@@ -1,4 +1,5 @@
 #!/bin/bash
 
-source /home/oliver/discord/hi/venv/bin/activate
-python /home/oliver/discord/hi/main.py
+cd /home/oliver/discord/hi
+source venv/bin/activate
+python main.py
