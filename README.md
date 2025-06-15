@@ -12,10 +12,10 @@ its so easy to run just install discord.py and make a config JSON file with like
     interactions INT,
     greetingChannel INT,
     adminRole INT
-  )
+  );
   CREATE TABLE blacklist (
     channelID INT PRIMARY KEY
-  )
+  );
   ```
   now your database is all set up hooray
 
